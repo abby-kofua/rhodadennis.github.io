@@ -7,7 +7,6 @@ author_profile: true
 
 <h2>Research Interests</h2>
 Climate Change Modeling | Portfolio Selection | Climate Finance | Pension Investment and Design | 
-
 Mortality Modeling | P2P Risk Sharing 
 
 <br>
