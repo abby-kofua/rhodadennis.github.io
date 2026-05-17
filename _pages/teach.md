@@ -4,13 +4,15 @@ title: "Teaching Experience"
 author_profile: true
 ---
 
-**Instructor, University of Waterloo**\
+<h2>Instructor, University of Waterloo</h2>
 ACTSC 231 – Introductory Financial Mathematics (Fall 2025)
-  * Responsibilities include syllabus design, lecturing, creating assessments, and mentoring students.
+
+  * The theory of rates of interest and discount including the theoretical continuous case of forces of interest and discount. Annuities and sinking funds, including the continuous case. Practical and theoretical applications primarily to mortgages and bonds. Yield rates. Immunization (Duration, Convexity).
  
 <br>
       
-**Teaching Assistant, University of Waterloo**\
+<h2>Teaching Assistant, University of Waterloo</h2>
+
 Supported undergraduate and graduate courses in actuarial science, finance, statistics, and risk management, including:
   * ACTSC 846 & 446: Mathematics for Financial Markets 
   * ACTSC 845 & 445: Quantitative Enterprise Risk Management
@@ -32,7 +34,8 @@ Responsibilities included leading tutorials, proctoring, grading, and holding of
 
 <br>
 
-**Teaching & Pedagogical Development**
+<h2>Teaching & Pedagogical Development</h2>
+
   * Foundations for University Teaching in Statistics and Actuarial Science Certificate (December 2024)
   * Teaching & Pedagogy Conferences/Workshop
   * University of Waterloo Teaching and Learning Conference - Waterloo, Canada (May, 2024)
