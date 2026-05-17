@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Miscellaneous"
+permalink: /miscellaneous/
+author_profile: true
+---
+
 **Academic & Professional Service**
   * **Conference Session Chair**: [AFRIC 2025 (Climate Risks Session)](https://www.unsw.edu.au/business/our-schools/risk-actuarial/news-events/actuarial-finance-risk-and-insurance-congress-2) - Maasai Mara, Kenya (June, 2025)
   * **Conference Volunteer**: 5th Waterloo Student Conference in Statistics, Actuarial Science and Finance
