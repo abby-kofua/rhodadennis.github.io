@@ -30,6 +30,7 @@ Supported undergraduate and graduate courses in actuarial science, finance, stat
   * ACTSC 232: Life Contingencies I
   * ACTSC 231: Introductory Financial Mathematics
   * STAT 241: Statistics (Advanced Level)
+    
 Responsibilities included leading tutorials, proctoring, grading, and holding office hours.
 
 <br>
