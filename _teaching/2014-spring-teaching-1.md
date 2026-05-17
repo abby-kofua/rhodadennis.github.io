@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 **Instructor, University of Waterloo**\
 ACTSC 231 – Introductory Financial Mathematics (Fall 2025)
   * Responsibilities include syllabus design, lecturing, creating assessments, and mentoring students.
